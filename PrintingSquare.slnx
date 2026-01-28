@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PrintingSquare/PrintingSquare.vcxproj" Id="c76bcc99-e32b-47a1-bbf9-58bb5ba377dd" />
+</Solution>
